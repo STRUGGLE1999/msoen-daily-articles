@@ -3,3 +3,9 @@
 .env.*
 *.pem
 credentials*
+drafts/
+covers/
+publish_run.py
+*.png
+*.jpg
+*.jpeg
