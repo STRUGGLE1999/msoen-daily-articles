@@ -3,3 +3,6 @@
 .env.*
 *.pem
 credentials*
+/tmp/
+articles/
+*.html.bak
