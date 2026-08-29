@@ -22,14 +22,11 @@ https://cursor.com/automations/new
 
 ## Prompt to paste
 
-Copy the text in `wuliuaou/AUTOMATION.md`. Then add WordPress login **only in the Automations UI**, not in git:
+Copy **all** of `wuliuaou/AUTOMATION.md`.
 
-```
-WORDPRESS AUTH (UI only, never commit):
-WP_SITE=https://www.wuliuaou.com
-WP_USER=hqned
-WP_PASSWORD=<the WordPress login password for hqned>
-```
+In the Automations UI only, fill `WP_PASSWORD` with the **wuliuaou.com** password for user `hqned`.
+
+Do not paste `msoen/AUTOMATION.md` here. Do not use the msoen.com user `hqned123` or the msoen.com application password.
 
 Save. Confirm the list shows **two different automations**:
 
