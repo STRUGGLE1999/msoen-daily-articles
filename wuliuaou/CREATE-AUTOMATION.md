@@ -17,8 +17,10 @@ https://cursor.com/automations/new
 | Timezone | Asia/Shanghai |
 | Time | 20:00 every day |
 | Cron if the UI is UTC | `0 12 * * *` |
-| Repository | `github.com/STRUGGLE1999/msoen-daily-articles` |
+| Repository | **Required:** `github.com/STRUGGLE1999/msoen-daily-articles` |
 | Branch | `main` (or this repo’s default) |
+
+If Repository is empty, the job can still publish to WordPress but it cannot commit `wuliuaou-published-log.md`. See `wuliuaou/LINK-REPO.md`.
 
 ## Prompt to paste
 
