@@ -15,3 +15,13 @@ The daily job appends one row per article after a successful publish to https://
 | 2026-08-30 | publish | china-usa | How to Calculate the Total Cost of Shipping from China to the USA | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14292.html |
 | 2026-08-30 | publish | china-usa | How Does Customs Clearance Work When Importing Goods from China to the USA? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14294.html |
 | 2026-08-30 | publish | china-usa | China to USA Door-to-Door Shipping: Complete Guide for Importers | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14296.html |
+| 2026-08-31 | publish | furniture-nz | How to Ship Furniture from China to New Zealand: Complete Guide for Importers and Retailers | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14318.html |
+| 2026-08-31 | publish | furniture-nz | How Much Does Furniture Shipping from China to New Zealand Cost? Rates and Surcharges | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14320.html |
+| 2026-08-31 | publish | furniture-nz | How Long Does It Take to Ship Furniture from China to New Zealand by Sea and Air? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14322.html |
+| 2026-08-31 | publish | furniture-nz | What Documents Are Required to Ship Furniture from China to New Zealand? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14324.html |
+| 2026-08-31 | publish | furniture-nz | China Furniture to New Zealand: Sea Freight vs. Air Freight for Importers | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14326.html |
+| 2026-08-31 | publish | furniture-nz | How to Choose a Reliable China to New Zealand Furniture Freight Forwarder | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14328.html |
+| 2026-08-31 | publish | furniture-nz | How DDP, Door-to-Door, and Port Delivery Work for China Furniture to New Zealand | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14330.html |
+| 2026-08-31 | publish | furniture-nz | How to Reduce Furniture Shipping Costs from China to New Zealand | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14332.html |
+| 2026-08-31 | publish | furniture-nz | How to Import China Furniture into New Zealand Without Unexpected Customs Costs | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14334.html |
+| 2026-08-31 | publish | furniture-nz | China to New Zealand Furniture Shipping Guide: Costs, Transit Times, and Customs | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14336.html |
