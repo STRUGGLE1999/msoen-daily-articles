@@ -25,3 +25,13 @@ The daily job appends one row per article after a successful publish to https://
 | 2026-08-31 | publish | furniture-nz | How to Reduce Furniture Shipping Costs from China to New Zealand | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14332.html |
 | 2026-08-31 | publish | furniture-nz | How to Import China Furniture into New Zealand Without Unexpected Customs Costs | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14334.html |
 | 2026-08-31 | publish | furniture-nz | China to New Zealand Furniture Shipping Guide: Costs, Transit Times, and Customs | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14336.html |
+| 2026-09-01 | publish | lcl | How Much Does LCL Shipping from China Cost? Ocean Freight Rates and Hidden Fees Explained | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14358.html |
+| 2026-09-01 | publish | lcl | How Long Does LCL Shipping from China Take? Transit Times by Country | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14360.html |
+| 2026-09-01 | publish | lcl | LCL vs FCL from China: What Should You Choose for Small and Large Shipments? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14362.html |
+| 2026-09-01 | publish | lcl | How to Reduce China LCL Shipping Costs: Practical Ways to Save Money | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14364.html |
+| 2026-09-01 | publish | lcl | What Documents Are Required for LCL Shipping from China? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14366.html |
+| 2026-09-01 | publish | lcl | How to Prevent Damage and Loss When Shipping LCL from China | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14368.html |
+| 2026-09-01 | publish | lcl | How to Ship LCL from China to the USA: Costs, Transit Times, and Door-to-Door Options | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14370.html |
+| 2026-09-01 | publish | lcl | How to Ship LCL from China to Europe: Costs, Transit Times, and Customs | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14372.html |
+| 2026-09-01 | publish | lcl | How to Choose a Reliable China LCL Freight Forwarder | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14374.html |
+| 2026-09-01 | publish | lcl | How to Ship Small Quantities from China Overseas: A Complete LCL Guide | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14376.html |
