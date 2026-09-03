@@ -35,3 +35,23 @@ The daily job appends one row per article after a successful publish to https://
 | 2026-09-01 | publish | lcl | How to Ship LCL from China to Europe: Costs, Transit Times, and Customs | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14372.html |
 | 2026-09-01 | publish | lcl | How to Choose a Reliable China LCL Freight Forwarder | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14374.html |
 | 2026-09-01 | publish | lcl | How to Ship Small Quantities from China Overseas: A Complete LCL Guide | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14376.html |
+| 2026-09-02 | publish | ddp | China DDP Shipping Explained: How Door-to-Door Delivery from China Works | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14387.html |
+| 2026-09-02 | publish | ddp | How to Ship from China DDP: Customs, Duties, Delivery and Cost Guide | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14389.html |
+| 2026-09-02 | publish | ddp | China DDP vs. DDU Shipping: What Is the Difference and Which Option Should You Choose? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14391.html |
+| 2026-09-02 | publish | ddp | How to Import from China Without Unexpected Customs Costs Using DDP | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14393.html |
+| 2026-09-02 | publish | ddp | China Door-to-Door Shipping: How to Import Goods from China to Your Warehouse | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14395.html |
+| 2026-09-02 | publish | ddp | What Is Included in a China DDP Freight Quote? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14397.html |
+| 2026-09-02 | publish | ddp | How Long Does DDP Shipping from China Take? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14399.html |
+| 2026-09-02 | publish | ddp | How Much Does DDP Shipping from China Cost? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14401.html |
+| 2026-09-02 | publish | ddp | How to Choose a Reliable China DDP Freight Forwarder | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14403.html |
+| 2026-09-02 | publish | ddp | DDP Shipping from China: Costs, Transit Times, Customs and Door-to-Door Delivery | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14405.html |
+| 2026-09-03 | publish | battery-dg | How to Ship Lithium Batteries from China by Sea: Rules, Documents, and LCL Options | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14407.html |
+| 2026-09-03 | publish | battery-dg | China Lithium Battery LCL Shipping Freight Forwarder Guide | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14409.html |
+| 2026-09-03 | publish | battery-dg | What Documents Are Required to Export Lithium Batteries from China? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14411.html |
+| 2026-09-03 | publish | battery-dg | How Long Does Lithium Battery Shipping from China Take? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14413.html |
+| 2026-09-03 | publish | battery-dg | How Much Does It Cost to Ship Lithium Batteries from China? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14415.html |
+| 2026-09-03 | publish | battery-dg | Dangerous Goods Battery Shipping from China by Sea: What Importers Should Know | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14417.html |
+| 2026-09-03 | publish | battery-dg | How to Choose a Reliable China Battery Dangerous Goods Freight Forwarder | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14419.html |
+| 2026-09-03 | publish | battery-dg | China DG Battery LCL Sea Freight: Packaging, Labeling, and Booking Checklist | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14421.html |
+| 2026-09-03 | publish | battery-dg | Can You Ship Lithium Batteries from China Door to Door with DDP? | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14423.html |
+| 2026-09-03 | publish | battery-dg | China Lithium Battery Export Sea Freight: Costs, Transit Times, and Compliance Guide | https://www.wuliuaou.com/Freightforwarder/Internationallogistics/14425.html |
