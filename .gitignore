@@ -3,3 +3,8 @@
 .env.*
 *.pem
 credentials*
+/tmp/
+articles/
+*.html.bak
+__pycache__/
+*.pyc
